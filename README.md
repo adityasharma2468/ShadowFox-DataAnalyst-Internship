@@ -205,15 +205,6 @@ Goes beyond summaries into customer behavior, segment performance, and revenue c
 
 ![Dashboard Demo](./dashboard-preview.png)
 
-# 📊 Overall Performance Snapshot
-
-```mermaid
-pie title Key Metric Highlight per Level
-    "Beginner - Total Sales (Rs 22.6L)" : 2261537
-    "Intermediate - Consumer Segment Share (50.8%)" : 5080
-    "Advanced - Attrition Rate (16.12%)" : 1612
-```
-
 ---
 
 # 📂 Repository Structure
