@@ -1,95 +1,337 @@
-# ShadowFox Data Analyst Internship
+<h1 align="center">📊 ShadowFox Data Analyst Internship</h1>
 
-**Intern:** Aditya Kumar Sharma
-**Role:** Data Analyst
-**Program:** ShadowFox Internship — Beginner, Intermediate & Advanced Levels
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+Internship+Projects;Retail+Sales+Dashboard+(Excel);Customer+%26+Revenue+Analysis+(Excel);Employee+Attrition+Dashboard+(Power+BI);Excel+%7C+Power+BI+%7C+DAX" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-1F3864?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Internship-ShadowFox-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Levels-3%2F3%20Completed-success?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasharma2468-shadowfox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:39FF14&height=120&section=header" width="100%"/>
+</p>
 
 ---
 
-## 📌 Overview
+# 📌 About This Repository
 
-This repository contains all three levels of my Data Analyst internship with ShadowFox — progressing from foundational spreadsheet reporting to an interactive, AI-assisted Power BI dashboard. Each level builds on the skills of the previous one, moving from **descriptive reporting** toward **insight-driven, recommendation-oriented analysis**.
+This repository contains all the **Data Analyst tasks** completed during my **ShadowFox Data Analyst Internship**, structured across three progressive levels:
 
-| Level | Focus | Tool | Dataset |
-|---|---|---|---|
-| 🟢 Beginner | Sales dashboard, KPIs, trend analysis | Excel | Superstore Sales (Kaggle) |
-| 🟡 Intermediate | Customer, segment & revenue analysis | Excel | Superstore Sales (Kaggle) |
-| 🔴 Advanced | Interactive executive dashboard | Power BI | IBM HR Analytics Attrition (Kaggle) |
+- 🧹 Data Cleaning & Preparation
+- 📊 KPI Design & Trend Analysis
+- 👥 Customer, Segment & Revenue Analysis
+- 🤖 Interactive, AI-Assisted Dashboarding (Power BI)
+- 📝 Insight-Driven Recommendations
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380">
+</p>
 
 ---
 
-## 📁 Repository Structure
+# 🗂️ Levels in this Repository
 
+<table align="center">
+  <tr>
+    <th>#</th>
+    <th>Level</th>
+    <th>Focus</th>
+    <th>Tool</th>
+    <th>Key Result</th>
+  </tr>
+  <tr>
+    <td>1️⃣</td>
+    <td><a href="./01_Beginner_Level">🟢 BEGINNER — RETAIL SALES DASHBOARD</a></td>
+    <td>KPIs & Trend Analysis</td>
+    <td>Excel</td>
+    <td><b>₹22.6L</b> Sales Analyzed</td>
+  </tr>
+  <tr>
+    <td>2️⃣</td>
+    <td><a href="./02_Intermediate_Level">🟡 INTERMEDIATE — CUSTOMER & REVENUE ANALYSIS</a></td>
+    <td>Segments & Concentration</td>
+    <td>Excel</td>
+    <td><b>50.8%</b> Revenue from Consumer Segment</td>
+  </tr>
+  <tr>
+    <td>3️⃣</td>
+    <td><a href="./03_Advanced_Level">🔴 ADVANCED — EMPLOYEE ATTRITION DASHBOARD</a></td>
+    <td>Interactive BI Dashboard</td>
+    <td>Power BI</td>
+    <td><b>16.12%</b> Attrition Rate</td>
+  </tr>
+</table>
+
+---
+
+# 1️⃣ 🟢 Beginner — Retail Sales Dashboard
+
+Analyzes ~9,800 retail orders to build a clean, KPI-driven Excel dashboard covering sales, orders, and trends.
+
+## 🎯 Dashboard Overview
+
+| KPI | Value |
+|-----|-------|
+| 💰 Total Sales | ₹22,61,537 |
+| 🧾 Total Orders | 9,800 |
+| 📊 Avg Order Value | ₹231 |
+| 🏆 Top Category | Technology |
+| 🌍 Top Region | West (31%) |
+| 📉 Weakest Region | South (17%) |
+
+## 📊 Visuals Included
+
+| Visual | Description |
+|--------|-------------|
+| 🃏 KPI Cards | 4 Key Metrics |
+| 📈 Line Chart | Monthly Sales Trend (2015–2018) |
+| 📊 Bar Chart | Sales by Category |
+| 🥧 Pie Chart | Revenue Share by Region |
+
+## 🔑 Key Insight
+
+Clear seasonal sales spike every **Sep–Nov**, with steady year-over-year growth from 2015 to 2018.
+
+📁 **[View Full Level →](./01_Beginner_Level)**
+
+---
+
+# 2️⃣ 🟡 Intermediate — Customer & Revenue Analysis
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760718-23c63685-1f5e-4444-ac20-f51f4a4d70b4.gif" width="110">
+
+Goes beyond summaries into customer behavior, segment performance, and revenue concentration, ending in 6 data-backed recommendations.
+
+## 🎯 Dashboard Overview
+
+| KPI | Value |
+|-----|-------|
+| 👥 Unique Customers | 793 |
+| 🔁 Repeat Customers | 787 (99%) |
+| 💎 Top 10 Customers' Share | 6.8% |
+| 🏢 Consumer Segment Share | 50.8% |
+| 📦 Top Sub-Category | Phones (₹3.28L) |
+
+## 📊 Visuals Included
+
+| Visual | Description |
+|--------|-------------|
+| 📋 Table | Customer-Level Breakdown |
+| 📊 Bar Chart | Sales by Segment |
+| 📊 Bar Chart | Top 10 Sub-Categories by Revenue |
+
+## 💼 Segment Performance
+
+| Segment | Total Sales | Share |
+|---------|------------|-------|
+| Consumer | ₹11,48,061 | 50.8% ⭐ |
+| Corporate | ₹6,88,494 | 30.4% |
+| Home Office | ₹4,24,982 | 18.8% |
+
+## 🔑 Key Insight
+
+Revenue is well-diversified across customers (low concentration risk), but **Consumer segment alone drives over half of total revenue**.
+
+📁 **[View Full Level →](./02_Intermediate_Level)**
+
+---
+
+# 3️⃣ 🔴 Advanced — Employee Attrition Analysis Dashboard
+
+> Interactive Power BI Dashboard analyzing the
+> drivers of employee attrition using AI-powered
+> Key Influencers | 1,470 Employees Dataset
+
+## 🎯 Dashboard Overview
+
+| KPI | Value |
+|-----|-------|
+| 👥 Total Employees | 1,470 |
+| 🚪 Attrition Count | 237 |
+| 📉 Attrition Rate | 16.12% |
+| 💰 Avg Monthly Income | ₹6.50K |
+| ⏰ OverTime Attrition Share | 46.41% |
+| 🏢 Top Department (Attrition) | Research & Development |
+| 🎯 Attrition Benchmark | 15.00% (Gauge Target) |
+
+## 📊 Visuals Included
+
+| Visual | Description |
+|--------|-------------|
+| 🃏 KPI Cards | 4 Key Metrics |
+| 🎛️ Gauge Chart | Attrition Rate vs Target |
+| 🍩 Donut Chart | Attrition by OverTime |
+| 🥧 Pie Chart | Attrition by Gender |
+| 📊 Bar Chart | Attrition Count by Department |
+| 📊 Bar Chart | Attrition by Marital Status |
+| 📈 Line Chart | Employee Tenure vs Attrition |
+| 🤖 AI Visual | Key Influencers of Attrition |
+| 🎛️ Slicers | Department, Gender & OverTime Filter |
+
+## 🤖 AI-Detected Key Influencers
+
+| Factor | Attrition Risk |
+|--------|----------|
+| Age ≤ 21 | 3.57× ⭐ |
+| OverTime = Yes | 2.93× |
+| JobRole = Sales Representative | 2.70× |
+
+## 🏢 Attrition Count by Department
+
+| Department | Attrition Count |
+|-------------|---------|
+| 🔴 Research & Development | 133 |
+| 🟡 Sales | 92 |
+| 🟢 Human Resources | 12 |
+
+## ⏰ Attrition by OverTime
+
+| OverTime | Attrition Count | Share |
+|-------------|---------|---------|
+| No | 127 | 53.59% |
+| Yes | 110 | 46.41% |
+
+## 💍 Attrition by Marital Status
+
+| Status | Count |
+|---------|---|
+| Married | 673 |
+| Single | 470 |
+| Divorced | 327 |
+
+## 🔑 Key Insight
+
+Overall attrition rate is **16.12%** — modestly above the 15% healthy benchmark. Employees aged **≤21** and those working **OverTime** are the strongest attrition drivers.
+
+📁 **[View Full Level →](./03_Advanced_Level)**
+
+---
+
+# 📊 Overall Performance Snapshot
+
+```mermaid
+pie title Key Metric Highlight per Level
+    "Beginner - Total Sales (Rs 22.6L)" : 2261537
+    "Intermediate - Consumer Segment Share (50.8%)" : 5080
+    "Advanced - Attrition Rate (16.12%)" : 1612
 ```
-├── Internship_Final_Report.docx        → Full internship report (objectives, learnings, challenges, conclusion)
+
+---
+
+# 📂 Repository Structure
+
+```text
+ShadowFox-DataAnalyst-Internship/
 │
 ├── 01_Beginner_Level/
-│   └── Retail_Sales_Dashboard.xlsx      → KPI dashboard with monthly/category/regional trends & charts
+│   └── Retail_Sales_Dashboard.xlsx
 │
 ├── 02_Intermediate_Level/
-│   └── Superstore_Intermediate_Analysis.xlsx  → Customer, segment & product performance analysis + recommendations
+│   └── Superstore_Intermediate_Analysis.xlsx
 │
-└── 03_Advanced_Level/
-    ├── Employee_Attrition_Analysis_Dashboard.pbix   → Interactive Power BI dashboard
-    └── Advanced_Level_Insights_Recommendations.md   → Findings & recommendations report
+├── 03_Advanced_Level/
+│   ├── Employee_Attrition_Analysis_Dashboard.pbix
+│   └── Advanced_Level_Insights_Recommendations.docx
+│
+├── Internship_Final_Report.docx
+├── Internship_Task_Presentation.pdf
+└── README.md   ← (this file)
 ```
 
 ---
 
-## 🟢 Beginner Level — Retail Sales Dashboard
+# 🛠️ Technologies Used
 
-**Objective:** Analyze a business sales dataset and build a spreadsheet-based dashboard with key metrics, trends, and basic insights.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
 
-**What's inside:**
-- Cleaned dataset (duplicates, blanks, and date formatting handled)
-- KPIs: Total Sales, Total Orders, Average Order Value
-- Category-wise, region-wise, and monthly trend analysis
-- Line, bar, and pie charts
-- Single-page dashboard with KPI cards
-- Documented cleaning steps and business insights
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=flat)
+![PowerQuery](https://img.shields.io/badge/Power%20Query-1F3864?style=flat)
 
-**Key finding:** Clear seasonal sales spike every September–November, and steady year-over-year growth from 2015–2018.
-
----
-
-## 🟡 Intermediate Level — Customer & Revenue Analysis
-
-**Objective:** Move beyond summary reporting into customer behavior, segment performance, and revenue concentration analysis.
-
-**What's inside:**
-- Customer-level analysis: repeat vs. one-time buyers, top-spender concentration
-- Segment performance: Consumer / Corporate / Home Office
-- Product/sub-category performance and order-value patterns
-- 6 data-backed business recommendations
-- Structured report tying findings into a business narrative
-
-**Key finding:** Revenue is well-diversified (top 10 customers = only 6.8% of revenue), but Consumer segment alone drives over 50% of total revenue.
+- Microsoft Excel
+- Power BI Desktop
+- Power Query
+- DAX
+- Kaggle Datasets (Superstore Sales, IBM HR Analytics)
 
 ---
 
-## 🔴 Advanced Level — Power BI Attrition Dashboard
+# 🚀 How to Explore
 
-**Objective:** Build an executive-style, interactive dashboard using Power BI for the IBM HR Analytics dataset.
+```bash
+git clone https://github.com/adityasharma2468/ShadowFox-DataAnalyst-Internship.git
+```
 
-**What's inside:**
-- Data cleaning & transformation via Power Query
-- 10+ custom DAX measures
-- KPI cards, Attrition Rate gauge, bar/donut/line charts
-- AI-powered **Key Influencers** visual to identify top attrition drivers
-- Interactive slicers (Department, Gender, OverTime) with full cross-filtering
-- Written insights & recommendations report
+```bash
+cd ShadowFox-DataAnalyst-Internship
+```
 
-**Key finding:** Overall attrition rate is 16.12%. Employees aged ≤21 (3.57x risk) and those working OverTime (2.93x risk) are the strongest attrition drivers.
+Open any level's `.xlsx` file in Excel, or the `.pbix` file in Power BI Desktop.
 
 ---
 
-## 🎥 Submission
+# 📈 Future Improvements
 
-- ✅ GitHub repository (this repo)
-- ✅ Self-recorded walkthrough video (submitted via Google Drive link, per program requirements)
+- [ ] Add cohort-based retention analysis to Intermediate level
+- [ ] Publish Power BI dashboard to Power BI Service for live sharing
+- [ ] Add drill-through pages to the Advanced dashboard
+- [ ] Automate monthly data refresh via Power Query parameters
+- [ ] Build a companion Streamlit app for quick metric lookups
 
 ---
 
-## 🛠️ Tools & Skills Used
+# 🎥 Submission Checklist
 
-`Excel` · `Power BI` · `Power Query` · `DAX` · `Data Cleaning` · `Data Visualization` · `Business Analysis` · `Dashboard Design`
+- [x] GitHub repository (this repo)
+- [x] Final written report — [`Internship_Final_Report.docx`](Internship_Final_Report.docx)
+- [x] Presentation deck — [`Internship_Task_Presentation.pdf`](Internship_Task_Presentation.pdf)
+- [x] Self-recorded walkthrough video (submitted separately via Google Drive link)
+
+---
+
+# 🎓 Internship Program
+
+Built as part of the **ShadowFox Data Analyst Internship**
+Mentor: **Mr. Aakash** · Batch: **August 2026**
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://github.com/adityasharma2468">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:adityajjkl773975@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you found this internship work interesting, don't forget to Star this repository!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:8A2BE2,100:00BFFF&height=100&section=footer" width="100%"/>
+</p>
