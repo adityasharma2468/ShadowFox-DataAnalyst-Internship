@@ -203,7 +203,7 @@ Goes beyond summaries into customer behavior, segment performance, and revenue c
 ---
 ## 🎥 Dashboard Demo
 
-![Dashboard Demo](./)
+![Dashboard Demo](./dashboard-preview.png)
 
 # 📊 Overall Performance Snapshot
 
