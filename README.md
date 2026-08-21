@@ -1,24 +1,28 @@
-<h1 align="center">📊 ShadowFox Data Analyst Internship</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,50:2E5C8A,100:C99A3E&height=180&section=header&text=ShadowFox%20Data%20Analyst%20Internship&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aditya%20Kumar%20Sharma&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analyst+Internship+Projects;Retail+Sales+Dashboard+(Excel);Customer+%26+Revenue+Analysis+(Excel);Employee+Attrition+Dashboard+(Power+BI);Excel+%7C+Power+BI+%7C+DAX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C99A3E&center=true&vCenter=true&width=800&lines=Retail+Sales+Dashboard+(Excel);Customer+%26+Revenue+Analysis+(Excel);Employee+Attrition+Dashboard+(Power+BI);Raw+Data+%E2%86%92+Business+Insight+%E2%86%92+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/DAX-1F3864?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Internship-ShadowFox-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Internship-ShadowFox-C99A3E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Levels-3%2F3%20Completed-success?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasharma2468-shadowfox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=adityasharma2468-shadowfox&label=Profile%20Views&color=1F3864&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:39FF14&height=120&section=header" width="100%"/>
-</p>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ---
 
@@ -303,35 +307,35 @@ Open any level's `.xlsx` file in Excel, or the `.pbix` file in Power BI Desktop.
 
 # 🎓 Internship Program
 
+<div align="center">
+
 Built as part of the **ShadowFox Data Analyst Internship**
-Mentor: **Mr. Aakash** · Batch: **August 2026**
+Mentor: **Mr. Aakash**  ·  Batch: **August 2026**
+
+</div>
 
 ---
 
-# 📫 Contact
+<div align="center">
 
-<p align="center">
+### 📫 Let's Connect
 
 <a href="https://github.com/adityasharma2468">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/aditya-kumar-sharma-137503316?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <a href="mailto:adityajjkl773975@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-C99A3E?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
+<br><br>
 
----
+⭐ **If you found this internship work interesting, don't forget to Star this repository!**
 
-<p align="center">
-⭐ If you found this internship work interesting, don't forget to Star this repository!
-</p>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:8A2BE2,100:00BFFF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C99A3E,50:2E5C8A,100:1F3864&height=140&section=footer&text=Thank%20You!&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=68" width="100%"/>
 </p>
