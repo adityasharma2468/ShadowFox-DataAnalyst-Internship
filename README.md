@@ -101,12 +101,6 @@ Analyzes ~9,800 retail orders to build a clean, KPI-driven Excel dashboard cover
 | 📊 Bar Chart | Sales by Category |
 | 🥧 Pie Chart | Revenue Share by Region |
 
-## 🔑 Key Insight
-
-Clear seasonal sales spike every **Sep–Nov**, with steady year-over-year growth from 2015 to 2018.
-
-📁 **[View Full Level →](./01_Beginner_Level)**
-
 ---
 
 # 2️⃣ 🟡 Intermediate — Customer & Revenue Analysis
@@ -140,12 +134,6 @@ Goes beyond summaries into customer behavior, segment performance, and revenue c
 | Consumer | ₹11,48,061 | 50.8% ⭐ |
 | Corporate | ₹6,88,494 | 30.4% |
 | Home Office | ₹4,24,982 | 18.8% |
-
-## 🔑 Key Insight
-
-Revenue is well-diversified across customers (low concentration risk), but **Consumer segment alone drives over half of total revenue**.
-
-📁 **[View Full Level →](./02_Intermediate_Level)**
 
 ---
 
@@ -211,12 +199,6 @@ Revenue is well-diversified across customers (low concentration risk), but **Con
 | Married | 673 |
 | Single | 470 |
 | Divorced | 327 |
-
-## 🔑 Key Insight
-
-Overall attrition rate is **16.12%** — modestly above the 15% healthy benchmark. Employees aged **≤21** and those working **OverTime** are the strongest attrition drivers.
-
-📁 **[View Full Level →](./03_Advanced_Level)**
 
 ---
 
