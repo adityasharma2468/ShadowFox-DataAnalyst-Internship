@@ -277,8 +277,6 @@ Open any level's `.xlsx` file in Excel, or the `.pbix` file in Power BI Desktop.
 - [x] GitHub repository (this repo)
 - [x] Final written report — [`Internship_Final_Report.docx`](Internship_Final_Report.docx)
 - [x] Presentation deck — [`Internship_Task_Presentation.pdf`](Internship_Task_Presentation.pdf)
-- [x] Self-recorded walkthrough video (submitted separately via Google Drive link)
-
 ---
 
 # 🎓 Internship Program
