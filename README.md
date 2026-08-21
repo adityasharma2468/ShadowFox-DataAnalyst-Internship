@@ -230,16 +230,13 @@ ShadowFox-DataAnalyst-Internship/
 ---
 
 # 🛠️ Technologies Used
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi" />
 </p>
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-FF6B6B?style=flat)
 ![PowerQuery](https://img.shields.io/badge/Power%20Query-1F3864?style=flat)
-
 - Microsoft Excel
 - Power BI Desktop
 - Power Query
