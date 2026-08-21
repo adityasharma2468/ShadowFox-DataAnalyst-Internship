@@ -201,6 +201,9 @@ Goes beyond summaries into customer behavior, segment performance, and revenue c
 | Divorced | 327 |
 
 ---
+## 🎥 Dashboard Demo
+
+![Dashboard Demo](./Dashboard_image.png)
 
 # 📊 Overall Performance Snapshot
 
