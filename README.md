@@ -274,8 +274,8 @@ Open any level's `.xlsx` file in Excel, or the `.pbix` file in Power BI Desktop.
 # 🎥 Submission Checklist
 
 - [x] GitHub repository (this repo)
-- [x] Final written report — [`Internship_Final_Report.docx`](Internship_Final_Report.docx)
-- [x] Presentation deck — [`Internship_Task_Presentation.pdf`](Internship_Task_Presentation.pdf)
+- [x] Final written report — [`Internship_Final_Report.docx`](./My-Internship-Final-Report.docx)
+- [x] Presentation deck — [`Internship_Task_Presentation.pdf`](./My-Internship-Task-Presentation.pdf)
 ---
 
 # 🎓 Internship Program
